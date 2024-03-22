@@ -17,17 +17,97 @@ O Vision Studio da Azure é uma plataforma que oferece ferramentas baseadas em i
 
 # Vamos ao que desenvolvemos na plataforma do Vision Studio:
 
- - Reconhecimento Facial
+ ### 1. Reconhecimento Facial
 
-Imagem de Entrada : 
+Imagem de Entrada 1  : 
 
 <img src="Inputs/Foto_mulher.png">
 
-https://github.com/SilvioSodre13/Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Inputs/Foto_mulher.png
+Resultado 1  : 
+
+<img src="Output/Out_Foto_mulher.png">
+
+Imagem de Entrada 2  : 
+
+<img src="Inputs/Foto_homem.png?raw=true">
+
+
+Resultado 2 : 
+
+<img src = "Output/Out_Foto_homem.png?raw=true">
 
 
 
-<img src="Outputs/Out_Foto_mulher.png">
+
+Imagem de Entrada 3 :
+
+<img src = "Inputs/Foto_02_mulheres.png?raw=true">
+
+
+Resultado 3 : 
+
+<img src = "Output/Out_Foto_02_mulheres.png?raw=true">
+
+### 2.Identificação de Dados em Documentos
+
+
+Imagem de Entrada 1 :
+
+<img src ="Inputs/Imagem_Texto1.png?raw=true">
+
+
+
+Resultado 1 :
+
+<img src ="Output/Out_Imagem_Texto.png?raw=true">
+
+
+Imagem de Entrada 2:
+
+<img src = "Inputs/Foto_livro.png?raw=true">
+
+
+Resultado 2 :
+
+<img src = "Output/Out_Foto_livro.png?raw=true">
+
+
+### 3.Reconhecimento de Elementos em Imagens
+
+
+Imagem de Entrada 1
+
+<img src = "Inputs/Foto_Vacas.png?raw=true">
+
+
+
+Resultado 1
+
+<img src = "Output/Out.Foto_Vacas.png?raw=true">
+
+
+
+
+Imagem de Entrada 2
+
+<img src = "Inputs/Foto_Homem_com_oculos_mao.png?raw=true">
+
+
+
+Resultado 2 
+
+<img src = "Output/Out.Foto_Homem_com_oculos_mao.png?raw=true">
+
+
+
+# Fim.
+
+
+
+
+
+
+
 
 
 
