@@ -21,7 +21,13 @@ O Vision Studio da Azure é uma plataforma que oferece ferramentas baseadas em i
 
 Imagem de Entrada : 
 
-<img src:"">
+<img src="Inputs/Foto_mulher.png">
+
+https://github.com/SilvioSodre13/Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Inputs/Foto_mulher.png
+
+
+
+<img src="Outputs/Out_Foto_mulher.png">
 
 
 
